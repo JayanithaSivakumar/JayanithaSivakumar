@@ -1,117 +1,62 @@
-<div align="center">
-
-# Hi 👋 I'm Jayanitha S
-
-### AI & Data Science Student • Full Stack Learner • Generative AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Developer+in+Progress;Building+AI+Powered+Solutions;Always+Learning+New+Technologies" />
-
-<img src="https://komarev.com/ghpvc/?username=jayanithasivakumar&style=for-the-badge&color=blue" />
-
-</div>
-
----
-
-# 💫 About Me
-
-🎓 B.Tech Artificial Intelligence & Data Science Student at **M.Kumarasamy College of Engineering (MKCE)**
-
-💻 Passionate about **Full Stack Development**, **Generative AI**, **Cloud Computing**, and **IoT**
-
-🌱 Currently learning
-
-- Flask
-- React
-- REST APIs
-- Cloud Fundamentals
-
-🚀 Interested in building
-
-- AI Applications
-- Smart IoT Solutions
-- Web Applications
-- Real-world Software Projects
-
-💡 I enjoy solving problems through technology and continuously exploring emerging tools.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="mailto:sjayanitha2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sjayanitha26/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://instagram.com/_jayani_s">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
+<h1 align="center">Hi 👋, I'm Jayanitha S</h1>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,flask,mysql,git,github,vscode,figma&perline=6"/>
-
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayanithasivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="jayanithasivakumar" />
+</p>
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanithasivakumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithasivakumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+🎓 I'm a 2nd-year B.Tech student in **Artificial Intelligence and Data Science (AIDS)** at **M.Kumarasamy College of Engineering (MKCE)**.
 
 ---
 
-# 🔥 GitHub Streak
+## 🚀 About Me
 
-<div align="center">
+| 🔹 | Description |
+|----|-------------|
+| 🎯 | Passionate about **Web Development**, **Generative AI**, and **Cloud Computing** |
+| 🧠 | Currently learning **HTML**, **CSS**, and **Flask** (Python framework) |
+| 🔍 | Always curious to explore modern tools and tech |
+| 🤝 | Eager to collaborate on open-source projects and real-world applications |
+| 📈 | Constantly improving my skills to become an industry-ready full stack developer |
 
-<img src="https://streak-stats.demolab.com?user=jayanithasivakumar&theme=tokyonight&hide_border=true"/>
+----
 
-</div>
+## 📫 Contact with me
 
----
+<p align="left">
+  <a href="mailto:sjayanitha2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sjayanitha26/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://instagram.com/_jayani_s" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
-# 📈 Contribution Graph
+----
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithasivakumar&theme=tokyo-night&hide_border=true"/>
+## 🛠️ Languages and Tools
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-# 🏆 GitHub Trophies
+----
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jayanithasivakumar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# ✨ Quote
-
-> *"Learning never exhausts the mind; it expands the possibilities."*
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanithasivakumar" alt="GitHub Streak" />
+</p>

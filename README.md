@@ -1,22 +1,35 @@
 
 <h1 align="center">Hi 👋, I'm Jayanitha S</h1>
 
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400" /> </p>
+
 <h3 align="center">
-AI & Data Science Student • Web Developer • Generative AI Enthusiast
-</h3>
-
-<p align="center">
-Passionate about building intelligent, scalable, and user-centric applications using AI, Web Technologies, and Cloud Computing.
+ <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayanitha+S;Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer+%7C+Generative+AI+Enthusiast;Building+Technology+That+Creates+Impact"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayanithasivakumar&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jayanithasivakumar?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jayanithasivakumar?affiliations=OWNER&style=for-the-badge&color=F9A826" alt="Stars" />
+  <b> B.Tech AI & Data Science @ MKCE</b> •
+  <b> Full Stack Developer</b> •
+  <b> AI Enthusiast</b> •
+  <b> Cloud Learner</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Web+Developer;Generative+AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  Passionate about transforming ideas into impactful software through
+  <strong>Artificial Intelligence</strong>,
+  <strong>Web Development</strong>,
+  <strong>Cloud Computing</strong>, and
+  <strong>Modern Technologies</strong>.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayanithasivakumar&label=Profile+Views&style=flat-square&color=58A6FF"/>
+  <img src="https://img.shields.io/github/followers/jayanithasivakumar?label=Followers&style=flat-square&color=58A6FF"/>
+  <img src="https://img.shields.io/github/stars/jayanithasivakumar?affiliations=OWNER&style=flat-square&color=58A6FF"/>
 </p>
 
 ---
@@ -25,7 +38,7 @@ Passionate about building intelligent, scalable, and user-centric applications u
 
 | 🚀 | Description |
 |:--:|-------------|
-| 🎓 | 2nd Year **B.Tech Artificial Intelligence and Data Science** student at **M. Kumarasamy College of Engineering (MKCE)** |
+| 🎓 | 3rd Year **B.Tech Artificial Intelligence and Data Science** student at **M. Kumarasamy College of Engineering (MKCE)** |
 | 💻 | Passionate about **Web Development**, **Generative AI**, and **Cloud Computing** |
 | 🌱 | Currently learning **HTML**, **CSS**, **JavaScript**, **React**, and **Flask** |
 | 🤝 | Interested in contributing to **Open Source** and building impactful projects |
@@ -33,24 +46,21 @@ Passionate about building intelligent, scalable, and user-centric applications u
 | 📚 | Continuously exploring modern technologies and industry best practices |
 
 ---
-
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:sjayanitha2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+  <a href="mailto:sjayanitha2006@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sjayanitha26/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://instagram.com/_jayani_s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="50" alt="Instagram"/>
   </a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -62,17 +72,6 @@ Passionate about building intelligent, scalable, and user-centric applications u
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayanithasivakumar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithasivakumar&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -82,13 +81,6 @@ Passionate about building intelligent, scalable, and user-centric applications u
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jayanithasivakumar&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=6"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
